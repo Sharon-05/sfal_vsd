@@ -25,7 +25,7 @@ sudo make install
 ```
 <img width="782" height="103" alt="Screenshot from 2025-09-20 23-06-42" src="https://github.com/user-attachments/assets/41dad6e7-f4eb-4bd5-b994-7cf5a0ce8dca" />
 ### 3. Icarus Verilog (iverilog) – Verilog Simulation Tool
-```
+```bash
 sudo apt-get update
 sudo apt-get install iverilog
 
@@ -36,15 +36,9 @@ sudo apt-get install iverilog
 
 ### 4. GTKWave (Waveform Viewer)
 
-```
+```bash
 sudo apt-get update
 sudo apt install gtkwave
 ```
 <img width="798" height="223" alt="image" src="https://github.com/user-attachments/assets/688e2e12-4814-484a-8d2a-b912caf8935f" />
-
-
-
-<img width="798" height="223" alt="image" src="https://github.com/user-attachments/assets/e7f61c33-ac7f-4cf1-9097-84ce7081816e" />
-
-
 
